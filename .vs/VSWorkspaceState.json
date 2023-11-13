@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Basic Training Project"
+    "\\Basic Training Project",
+    "\\Frequency Counter"
   ],
-  "SelectedNode": "\\Basic Training Project\\app.py",
+  "SelectedNode": "\\Frequency Counter\\app.py",
   "PreviewInSolutionExplorer": false
 }
